@@ -1,0 +1,24 @@
+{
+  "name": "TasaStock PRO - POS Cesta B\u00e1sica 2026",
+  "short_name": "TasaStock PRO",
+  "description": "POS Cesta B\u00e1sica 2026 - Sistema offline con IVA exento y gravado, tasa BCV editable",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#070708",
+  "theme_color": "#0a0a0a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
